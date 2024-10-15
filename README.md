@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Khwezi
 - 👀 I’m interested in programming and application of computer science in software development, machine learning and artificial intelligence(LLMS).
-- 🌱 I’m currently learning python,machine learning, data science, data science, html, css, javascript, react, git and other software development tools.
+- 🌱 I’m currently learning python,machine learning, data science, html, css, javascript, react, git and other software development tools.
 - 💞️ I’m looking to collaborate on my knowledge about computer science.
 - 📫 How to reach me: email : khwezi.dubaa@gmail.com
 
